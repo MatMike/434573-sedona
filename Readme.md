@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Матвей Михайлов](https://up.htmlacademy.ru/htmlcss/19/user/434573).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Масленко] (https://htmlacademy.ru/profile/biggus-dickus).
 
 ---
 
